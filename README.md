@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ibtissem, ابتسام, Khedim 😊
+# 👋 Hello, I'm Ibtissem ابتسام 😊
 
 Ibtissem means "smile" in Arabic, and that's how I approach life and data engineering – with a positive mindset and a smile, even when solving complex challenges. I'm passionate about building scalable data systems, optimizing Big Data pipelines, and continuously learning new technologies. Join me on my journey of turning data into actionable insights with a smile! 😄
 
